@@ -48,7 +48,21 @@ An e-commerce distributor experiences stockouts of fast-moving products while ov
 - Create `.gitignore` to exclude virtual environments, secrets, caches, and local datasets.
 - Create this project log.
 - Verify the files and Git status.
-- Create the first commit and push it to GitHub.    
+- Create the first commit and push it to GitHub.  
+
+
+### Milestone 4 — Python Dependencies
+
+**Status:** Completed after verification
+
+- Added requirements.txt to declare Python dependencies.
+- Retained pyproject.toml for project metadata and packaging.
+- Installed dependencies inside the project virtual environment.
+- Verified package consistency using pip check.
+- Verified imports for the core analysis and database libraries.
+
+**Purpose:** Make the Python environment easier to reproduce.
+
 
 ## 3. Data Survey
 
