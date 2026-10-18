@@ -63,6 +63,17 @@ An e-commerce distributor experiences stockouts of fast-moving products while ov
 
 **Purpose:** Make the Python environment easier to reproduce.
 
+### Milestone 5 — Project Structure
+
+**Status:** In progress
+
+- Reviewed the existing Python package and configuration.
+- Retained the existing src/supply_chain package.
+- Organized directories for data, notebooks, SQL, Power BI, and images.
+- Identified backend and orchestrator as the next implementation tasks.
+
+**Next:** Verify the structure, update the project README, and commit the milestone.
+
 
 ## 3. Data Survey
 
